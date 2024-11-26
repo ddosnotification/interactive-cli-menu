@@ -1,6 +1,6 @@
 {
   "name": "interactive-cli-menu",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A sleek and customizable CLI menu with arrow key navigation and actions. No external dependencies!",
   "main": "index.js",
   "scripts": {

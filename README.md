@@ -1,5 +1,9 @@
 # 🌟 interactive-cli-menu
 
+![npm version](https://img.shields.io/npm/v/interactive-cli-menu)
+![downloads](https://img.shields.io/npm/dm/interactive-cli-menu)
+![GitHub stars](https://img.shields.io/github/stars/ddosnotification/interactive-cli-menu)
+
 **interactive-cli-menu** is a sleek, modern, and customizable NPM package for creating interactive CLI menus. It supports smooth arrow key navigation, actionable items, and beautiful terminal UI—all without external dependencies! Perfect for making your command-line tools pop! 🎉
 
 ---
